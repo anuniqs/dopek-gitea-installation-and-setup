@@ -1,3 +1,6 @@
+#### Installation and setup,
+
+
 https://gitea.io/en-us/ , https://dl.gitea.io/gitea/
 
 #### We’ll use SQLite,
